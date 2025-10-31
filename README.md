@@ -1,4 +1,4 @@
-# Hi there, I'm Neha Bais Thakur! 👋
+# Hi there, I'm Neha!! 👋
 
 <div align="center">
   
@@ -207,7 +207,7 @@ _Built scalable ETL pipelines and ML solutions_ | _Aug 2018 - Jan 2022_
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaBais&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! 💜
 
 I'm always excited to collaborate on innovative ML/AI projects, discuss data science trends, or explore opportunities that create real-world impact. Feel free to reach out!
 
