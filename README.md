@@ -5,20 +5,23 @@
 ### 🚀 Transforming Raw Data into Real-World Solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehabaisthakur)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehab1229@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neha.thakur@sjsu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NehaBais)
 
 </div>
 
-## 👩‍💻 About Me
+Hey there! I’m Neha, a Data & ML Specialist who finds joy in uncovering stories hidden within data. ✨🌷
 
-I'm a **Data Engineer & Analytics Specialist** with 3.5+ years of experience building scalable data pipelines and deploying ML models that drive business impact. Currently pursuing my Master's in Applied Data Science at San Jose State University while serving as a Graduate Teaching Assistant for Machine Learning Technologies and Distributed Systems.
+I’ve spent 3.5+ years designing data pipelines, building ML models, and transforming raw data into meaningful insights. I recently earned my Master’s in Applied Data Science from San José State University, where I also served as a Graduate Teaching Assistant for Machine Learning and Distributed Systems.
+
+When I’m not coding or analyzing trends, I’m probably dancing to my favorite tunes or training for my next run - because balance is everything. 💃☕💻
 
 - 🔭 I'm currently working on **Large Language Models** and **Chain-of-Thought Reasoning**
 - 🌱 I'm exploring **Explainable AI** and **Foundation Models**
 - 👯 I'm looking to collaborate on **ML/AI projects** that solve real-world problems
 - 💬 Ask me about **Data Engineering, ETL Pipelines, Machine Learning, Deep Learning**
-- 🎓 MS Applied Data Science @ SJSU | Ex-DXC Technology Data Engineer
+- 🎓 MS Applied Data Science @ SJSU
+- 💼 Ex-DXC Technology Data Engineer
 - ⚡ Fun fact: I've analyzed everything from fashion trends to Higgs Boson particles!
 
 ## 🛠️ Tech Stack
