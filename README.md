@@ -18,6 +18,7 @@ I’ve spent 3.5+ years designing data pipelines, building ML models, and transf
 
 When I’m not coding or analyzing trends, I’m probably dancing to my favorite tunes or training for my next run - because balance is everything. 💃☕💻
 
+
 - 🔭 I'm currently working on **Large Language Models** and **Chain-of-Thought Reasoning**
 - 🌱 I'm exploring **Explainable AI** and **Foundation Models**
 - 👯 I'm looking to collaborate on **ML/AI projects** that solve real-world problems
