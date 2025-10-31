@@ -168,16 +168,6 @@ When I’m not coding or analyzing trends, I’m probably dancing to my favorite
   </tr>
 </table>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaBais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaBais&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaBais&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ## 🎓 Education & Certifications
 
@@ -199,10 +189,21 @@ Jawaharlal Nehru Technological University | 2014 - 2018
 ## 💼 Experience Highlights
 
 **🔬 Graduate Teaching Assistant** | San Jose State University  
-_Machine Learning Technologies & Distributed Systems | Aug 2024 - Present_
+_Machine Learning Technologies & Distributed Systems_ | _Aug 2024 - Present_
 
 **📊 Data Engineer** | DXC Technology  
-_Built scalable ETL pipelines and ML solutions | Aug 2018 - Jan 2022_
+_Built scalable ETL pipelines and ML solutions_ | _Aug 2018 - Jan 2022_
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NehaBais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaBais&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaBais&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ## 🤝 Let's Connect!
 
@@ -211,8 +212,6 @@ I'm always excited to collaborate on innovative ML/AI projects, discuss data sci
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nehabaisthakur)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:nehab1229@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=github)](https://github.com/NehaBais)
 
 ---
 
